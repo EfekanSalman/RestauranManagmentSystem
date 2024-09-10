@@ -1,4 +1,4 @@
-# RestauranManagmentSystem
+# RestaurantManagmentSystem
 
 This is a console-based application written in C that simulates a restaurant menu. It allows users to browse through a menu, add items to a cart, and save their cart to a file. The application supports both a normal menu and a vegan menu, each with eight categories of dishes.
 
